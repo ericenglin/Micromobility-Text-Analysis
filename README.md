@@ -1,2 +1,5 @@
 # Micromobility Text Analysis
- This is a simple webscraper that builds a word cloud and makes bigrams & trigrams. All code can be found in jupyter notebook file. 
+ This is a simple webscraper that builds a word cloud and makes bigrams & trigrams. All code can be found in jupyter notebook file. Articles have been compiled throughout the summer of 2019. This analysis uses a subset of these articles as a quick attempt to find useful information. All articles can be found in the xlsx file or in the jupyter notebook. 
+
+# Context On Micromobility:
+Micromobility is a trendy catch-all term for small modes of transportation that are coming into streets around the world. As a general definition, micromobility is a category of modes of transport that are provided by very light vehicles such as electric scooters, electric skateboards, shared bicycles and electric pedal assisted, pedelec, bicycles. The primary condition for inclusion in the category is a gross vehicle weight of less than 500 kg. This is still a developing field with new trends every day (see: [pogo sticks](https://www.autonews.com/mobility-report/pogo-sticks-join-micromobility-field)). 
